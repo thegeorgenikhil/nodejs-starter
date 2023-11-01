@@ -1,0 +1,1 @@
+export { emailSlug } from "./email";
